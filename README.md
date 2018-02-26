@@ -35,4 +35,6 @@ Número: 186   calculado:Infinity  Anterior:2.0569718E38  Siguiente:3.3282503E38
 ### double
 Número: 1476   calculado:Infinity  Anterior:8.077637632156222E307  Siguiente:1.3069892237633987E308
 
+## Matrix
 
+La gráfica de los tiempos de ejecución (en nanosegundos) por cada instrucción al multiplicar la matríz ded tamaño 5x5 se adjunta en el documento Matrix_Grafica.
