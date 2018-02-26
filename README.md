@@ -1,5 +1,4 @@
 # Laboratorio1
-Laboratorio 1
 
 ## Calculo de Fibonacci en c++:
 
