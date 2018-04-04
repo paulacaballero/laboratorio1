@@ -133,7 +133,7 @@ def histograma_interc(intercambios,num_perm,n):
     print("\nMaximo numero de comparaciones: "+str(max_num_pasos))
         
 
-nPermRequired = 6 
+nPermRequired = 4 
 pasos,compare,interc,permutacion,num_perm = counter(0,n=nPermRequired)
 histogramaPasos(pasos,numeroPermutaciones,nPermRequired)
 histogramaComparaciones(compare,num_perm,nPermRequired)
